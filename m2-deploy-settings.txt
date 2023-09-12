@@ -2,11 +2,11 @@
 M2_DEPLOYER_LOCALES="en_US"
 
 # Settings for deploying to staging server
-M2_DEPLOYER_STAGE_HOSTNAME="SSH-host"
-M2_DEPLOYER_STAGE_USER="SSH-user-name"
-M2_DEPLOYER_STAGE_PATH="/var/www/html/staging"
+M2_DEPLOYER_STAGE_HOSTNAME="localhost"
+M2_DEPLOYER_STAGE_USER="ali"
+M2_DEPLOYER_STAGE_PATH="/var/www/html/magento2/staging"
 
 # Settings for deploying to live/production server
-M2_DEPLOYER_PROD_HOSTNAME="SSH-host"
-M2_DEPLOYER_PROD_USER="SSH-user-name"
-M2_DEPLOYER_PROD_PATH="/var/www/html/production"
+M2_DEPLOYER_PROD_HOSTNAME="localhost"
+M2_DEPLOYER_PROD_USER="ali"
+M2_DEPLOYER_PROD_PATH="/var/www/html/magento2/production"
